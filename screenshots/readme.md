@@ -1,0 +1,2 @@
+This folder includes screenshots of the System when running on the mini collection.
+__________________________________________________________________________________
